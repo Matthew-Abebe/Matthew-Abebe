@@ -25,7 +25,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 
 <h3>Applications</h3>
 
-<a href="https://github.com/Matthew-Abebe/Stockio"><h4>Stockio</h4></a>
+<a href="https://matthew-abebe.github.io/Stockio/"><h4>Stockio</h4></a>
 
 <p>
 <img src="https://user-images.githubusercontent.com/44979851/121428148-55c95780-c92a-11eb-8f95-310fcb2ec6a4.png" width="300" height="200"></img>

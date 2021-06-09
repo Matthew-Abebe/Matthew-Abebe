@@ -18,10 +18,10 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100" height="100" />
 <img alt="ReactJS" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" height="100" />
 <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100" />
+<img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" />
 </p>
 
 <h3>Contact Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/mtabebe/"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="100" height="100"></img></a>
-  <a href="https://github.com/Matthew-Abebe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100"></img></a>
 </p>

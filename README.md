@@ -20,7 +20,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100" />
 </p>
 
-<h3>Where to Find Me</h3>
+<h3>Contact Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/mtabebe/"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="100" height="100"></img></a>
   <a href="https://github.com/Matthew-Abebe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100"></img></a>

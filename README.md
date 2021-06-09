@@ -39,6 +39,9 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img alt="Budget-Pal-2" src="" width="300" height="200"></img>
 </p>
 
+<h3>Resume</h3>
+
+
 <h3>Contact Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/mtabebe/"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="100" height="100"></img></a>

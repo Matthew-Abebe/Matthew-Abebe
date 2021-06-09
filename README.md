@@ -17,5 +17,5 @@
 <h3>Where to Find Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/mtabebe/"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="100" height="100"></img></a>
-  <a href="https://www.linkedin.com/in/mtabebe/"><img></img></a>
+  <a href="https://github.com/Matthew-Abebe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100"></img></a>
 </p>

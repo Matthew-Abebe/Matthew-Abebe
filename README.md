@@ -32,7 +32,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img src="https://user-images.githubusercontent.com/44979851/121428205-64177380-c92a-11eb-8992-e0429a5749b8.png" width="300" height="200"></img>
 </p>
 
-<a href="https://budget-pal-app.herokuapp.com/#notes"><h4>Budget-Pal</h4></a>
+<a href="https://budget-pal-app.herokuapp.com"><h4>Budget-Pal</h4></a>
 
 <p>
 <img alt="Budget-Pal-1" src="" width="300" height="200"></img>

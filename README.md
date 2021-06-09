@@ -40,7 +40,9 @@ I am dedicated to improving my knowledge and understanding of software developme
 </p>
 
 <h3>Resume</h3>
-
+<p>
+  <a href="https://github.com/Matthew-Abebe/matthewabebe/blob/main/Matthew_Abebe_Resume.pdf"><img alt="Resume" src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" width="90" height="90"></img></a>
+</p>
 
 <h3>Contact Me</h3>
 <p>

@@ -15,6 +15,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" height="100" />
 <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="100" height="100" />
 <img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="100" height="100" />
+<img alt="Node.js" src="https://expressjs.com/images/express-facebook-share.png" width="150" height="100" />
 <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100" height="100" />
 <img alt="ReactJS" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" height="100" />
 <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100" />

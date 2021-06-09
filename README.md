@@ -33,8 +33,8 @@ I am dedicated to improving my knowledge and understanding of software developme
 <a href="https://github.com/Matthew-Abebe/Stockio"><h4>Budget-Pal</h4></a>
 
 <p>
-<img src="https://user-images.githubusercontent.com/44979851/121428148-55c95780-c92a-11eb-8f95-310fcb2ec6a4.png" width="300" height="200"></img>
-<img src="https://user-images.githubusercontent.com/44979851/121428205-64177380-c92a-11eb-8992-e0429a5749b8.png" width="300" height="200"></img>
+<img alt="Budget-Pal-1" src="" width="300" height="200"></img>
+<img alt="Budget-Pal-2" src="" width="300" height="200"></img>
 </p>
 
 <h3>Contact Me</h3>

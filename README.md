@@ -1,4 +1,4 @@
-# matthewabebe
+# Matthew-Abebe
 
 <h3>About Me</h3>
 <p>Hi, I’m Matthew Abebe, and I am a software developer who is a detail oriented professional that continuously strives to learn new and exciting skills.

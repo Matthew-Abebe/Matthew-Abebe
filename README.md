@@ -18,6 +18,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <img alt="Express.js" src="https://camo.githubusercontent.com/19012171c9664630527c09ac9045b05b50cd03088d6ed8a9664d6e1fa4aeb89c/68747470733a2f2f616d616e646565706d697474616c2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f616d616e646565706d697474616c2f657870726573736a732f322e302e302f313530393838313239333837322f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" width="150" height="100" />
 <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100" height="100" />
 <img alt="ReactJS" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" height="100" />
+<img alt="ChartJS" src="https://www.chartjs.org/media/logo-title.svg" width="100" height="100" />
 <img alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="100" height="100" />
 <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100" />
 <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" />

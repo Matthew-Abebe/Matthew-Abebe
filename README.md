@@ -1,11 +1,11 @@
 # Matthew-Abebe
 
 <h3>About Me</h3>
-<p>Hello, my name is Matthew Abebe. I am a software developer who is a detail oriented professional that continuously strives to learn new and exciting skills.
+<p>:wave:	:smiley: Hello, my name is Matthew Abebe. I am a software developer that continuously strives to learn new and exciting skills.
 
 Although I began my studies in the social sciences, my curiosity opened a path for me to learn how to code. I realized that I was happy learning this new ability and gained employment as a Business Analyst where I performed SQL programming. Additionally, I carried out consulting projects for key clients.
 
-I have gained experience as a software developer by becoming a member at LearningFuze. At LearningFuze I have developed critical thinking and problem solving skills while using tools and technologies including, HTML, CSS, JavaScript, and Git. My greatest accomplishment as a developer was completing two solo-projects which challenged me and allowed me to work on applications with subject matters that I am interested in, such as the stock market and personal finance. 
+I have gained experience as a software developer by becoming a member at LearningFuze. At LearningFuze I have developed critical thinking and problem solving skills while using tools and technologies including, HTML, CSS, JavaScript, and Git. My greatest accomplishment as a developer was completing two solo-projects which challenged me and allowed me to work on applications with subject matters that I am interested in such as the stock market and personal finance. 
   
 I am dedicated to improving my knowledge and understanding of software development and I look forward to elaborating on how my specific skills and abilities will benefit your organization.</p>
 

@@ -35,7 +35,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <a href="https://budget-pal-app.herokuapp.com"><h4>Budget-Pal</h4></a>
 
 <p>
-<img alt="Budget-Pal-1" src="https://github.com/Matthew-Abebe/Matthew-Abebe/issues/3#issue-920643574" width="300" height="200"></img>
+<img alt="Budget-Pal-1" src="https://github.com/Matthew-Abebe/Matthew-Abebe/issues/3#issue-920643574.png" width="300" height="200"></img>
 <img alt="Budget-Pal-2" src="https://user-images.githubusercontent.com/44979851/121936712-c55e8e80-ccfe-11eb-9f35-d2c1aa6e10e3.png" width="300" height="200"></img>
 </p>
 

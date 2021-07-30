@@ -36,7 +36,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 
 <p>
 <img alt="Budget-Pal-1" src="https://user-images.githubusercontent.com/44979851/127435293-8289eb3a-531b-4d26-a9d3-618d062bc309.png" width="300" height="200"></img>
-<img alt="Budget-Pal-2" src="https://user-images.githubusercontent.com/44979851/127435533-4fff83da-542c-4b73-aa27-47cd225d5eba.png" width="300" height="200"></img>
+<img alt="Budget-Pal-2" src="https://user-images.githubusercontent.com/44979851/127720549-0cd235c7-9e06-468c-9f9e-496f582d3f49.png" width="300" height="200"></img>
 </p>
 
 <h3>Resume</h3>

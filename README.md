@@ -28,7 +28,7 @@ I am dedicated to improving my knowledge and understanding of software developme
 <a href="https://matthew-abebe.github.io/Stockio/"><h4>Stockio</h4></a>
 
 <p>
-<img src="https://user-images.githubusercontent.com/44979851/127434571-d86d3d71-9d6e-4016-8c70-473eb9fe87bf.png" width="300" height="200"></img>
+<img src="https://user-images.githubusercontent.com/44979851/127720133-0461473c-e981-44ad-8408-91c82c14b6ff.png" width="300" height="200"></img>
 <img src="https://user-images.githubusercontent.com/44979851/127434648-2bfb5f31-ff89-4211-b386-ca555d59d613.png" width="300" height="200"></img>
 </p>
 
